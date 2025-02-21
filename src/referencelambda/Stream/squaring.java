@@ -1,4 +1,4 @@
-package referencelambda.Streams;
+package referencelambda.Stream;
 
 import java.util.Arrays;
 import java.util.List;
